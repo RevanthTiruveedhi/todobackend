@@ -1,4 +1,4 @@
-FROM jmenga/todobackend-base:latest
+FROM revanthtiruveedhi/todobackend-base:latest
 MAINTAINER Rev
 
 COPY target /wheelhouse
